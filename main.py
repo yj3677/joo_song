@@ -5,3 +5,5 @@ print("메롱")
 print("go to the home")
 print("메인에서 수정")
 print("bookcart")
+print("메인에서 수정2")
+
